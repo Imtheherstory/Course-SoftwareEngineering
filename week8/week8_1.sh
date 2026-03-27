@@ -13,3 +13,6 @@ git commit -m "work 2"
 echo commit3 >> work.txt
 git add work.txt
 git commit -m "work 3"
+
+
+홍성은 임의로 추가했음
